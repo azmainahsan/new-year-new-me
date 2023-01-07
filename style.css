@@ -32,3 +32,36 @@
     color: #005FAC;
     margin-right: 230px;
 }
+
+/* failures Section styles */
+
+.failure {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+
+}
+
+.failure-person {
+    margin: 135px 87px 125px 205px;
+}
+
+.failure-content {
+    margin: 370px 220px 210px 0;
+}
+
+.failure-title {
+    font-weight: 900;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.failure-description {
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+.failure-list p{
+    margin-bottom: 8px;
+}
