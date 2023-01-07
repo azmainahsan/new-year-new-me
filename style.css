@@ -110,3 +110,25 @@
     color: #737272;
 
 }
+
+/* watch section styles */
+
+.watch {
+    width: 1140px;
+    height: 300px;
+    margin: 130px 230px;
+    background-image: url(images/gradient1.png), url('images/watch.png')
+}
+
+.watch-title {
+    width: 460px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding-top: 60px;
+    padding-left: 65px;
+}
+.watch .btn-primary{
+    margin-top: 24px;
+    margin-left: 65px;
+}
